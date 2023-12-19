@@ -6,9 +6,10 @@
 
 ### Projects:
 - [ Lycoris ] A up-to-date & powerful Minecraft anticheat solution, using predict and high performance packet lib.
+- [ js4bukkit ] Experimental Project: Use JavaScript for Bukkit Plugin Development.
 - [ LPacket ] Read the contents of the data packet provided by the external protocol library and build a new packet (LPacket) so that it does not distinguish between "Send" and "Receive".
 
 ### ☎️ Contact:
 - MailBox **-**  LinceyForYou@gmail.com
-- If you a server owner and suffering from CHEATING players, contact me.
+- If you are a server owner and suffering from CHEATING players, contact me.
                               
