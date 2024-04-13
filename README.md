@@ -11,5 +11,5 @@
 
 ### ☎️ Contact:
 - MailBox **-**  LinceyForYou@gmail.com
-- If you are a server owner and suffering from CHEATING players, contact me.
+- Unavailable now cuz I'm serving others 
                               
