@@ -1,6 +1,4 @@
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=L1ncey&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/Jurredr/github-widgetbox)
-
 <div align="center">
-  <h4 style="color: blue;">more afraid of doing nothing academically than messing around with these.</h4>
-</div>
-                              
+<h6> VmlnZW7DqHJlOiBVRUZUVTFkUFVrUTZJRmRJVHlCQlRpQkpQdz09 </h6>
+<h6> Qvod_cmok_ciqs_ckwilb_um_ijsq_czlwzie_gy_dnzgulpqixmo </h6>
+</div>                            
